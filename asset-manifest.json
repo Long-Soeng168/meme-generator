@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Long-Soeng168/meme-generator/static/css/main.897fa8d8.css",
+    "main.js": "/Long-Soeng168/meme-generator/static/js/main.2e15d89b.js",
+    "index.html": "/Long-Soeng168/meme-generator/index.html",
+    "main.897fa8d8.css.map": "/Long-Soeng168/meme-generator/static/css/main.897fa8d8.css.map",
+    "main.2e15d89b.js.map": "/Long-Soeng168/meme-generator/static/js/main.2e15d89b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897fa8d8.css",
+    "static/js/main.2e15d89b.js"
+  ]
+}
